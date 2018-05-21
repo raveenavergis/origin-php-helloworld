@@ -1,4 +1,6 @@
 <?php
- ehco "Hello Wolrd!";
- ehco "PHP is so easy!";
-?>
+ 
+ ehco "Hello Wolrd from ".gethostname()
+ 
+
+ ?>
