@@ -1,6 +1,3 @@
 <?php
- 
- ehco "Hello Wolrd from ".gethostname()
- 
-
+ ehco "Hello Wolrd from "
  ?>
