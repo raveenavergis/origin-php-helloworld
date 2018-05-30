@@ -1,3 +1,3 @@
 <?php
- ehco "Hello Wolrd from "
+ ehco "Hello World"
  ?>
